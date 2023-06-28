@@ -1,7 +1,7 @@
 # Netflix Dashboard
 
 
-<img src="dashboard_netflix.JPG"
+<img src="dashboard_screenshot.JPG"
      style="float: left; margin-right: 20px;" />
      
   <p>Lien power BI service:
