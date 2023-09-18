@@ -1,4 +1,4 @@
-# Netflix Dashboard
+ # Netflix Dashboard Overview
 
 
 <img src="dashboard_screenshot.JPG"
